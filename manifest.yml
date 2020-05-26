@@ -1,0 +1,7 @@
+---
+applications:
+- name: spring-mongodb
+  host: spring-mongodb
+  path: build/libs/spring-mongodb-0.0.1-SNAPSHOT.jar
+  services:
+  - mongo-service
